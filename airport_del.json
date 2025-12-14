@@ -1,0 +1,234 @@
+{
+    "icao": "VIDP",
+    "iata": "DEL",
+    "shortName": "Indira Gandhi",
+    "fullName": "New Delhi Indira Gandhi",
+    "municipalityName": "New Delhi",
+    "location": {
+        "lat": 28.5665,
+        "lon": 77.1031
+    },
+    "elevation": {
+        "meter": 236.83,
+        "km": 0.24,
+        "mile": 0.15,
+        "nm": 0.13,
+        "feet": 777.0
+    },
+    "country": {
+        "code": "IN",
+        "name": "India"
+    },
+    "continent": {
+        "code": "AS",
+        "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+        "webSite": "http://www.newdelhiairport.in/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+        "flightRadar": "https://www.flightradar24.com/28.57,77.10/14",
+        "googleMaps": "https://www.google.com/maps/@28.566499,77.103103,14z"
+    },
+    "runways": [
+        {
+            "name": "09",
+            "trueHdg": 91.5,
+            "length": {
+                "meter": 2827.93,
+                "km": 2.83,
+                "mile": 1.76,
+                "nm": 1.53,
+                "feet": 9278.0
+            },
+            "width": {
+                "meter": 45.11,
+                "km": 0.05,
+                "mile": 0.03,
+                "nm": 0.02,
+                "feet": 148.0
+            },
+            "isClosed": false,
+            "location": {
+                "lat": 28.570492,
+                "lon": 77.08804
+            },
+            "surface": "Asphalt",
+            "displacedThreshold": {
+                "meter": 0.0,
+                "km": 0.0,
+                "mile": 0.0,
+                "nm": 0.0,
+                "feet": 0.0
+            },
+            "hasLighting": true
+        },
+        {
+            "name": "10",
+            "trueHdg": 104.7,
+            "length": {
+                "meter": 3809.09,
+                "km": 3.81,
+                "mile": 2.37,
+                "nm": 2.06,
+                "feet": 12497.0
+            },
+            "width": {
+                "meter": 45.11,
+                "km": 0.05,
+                "mile": 0.03,
+                "nm": 0.02,
+                "feet": 148.0
+            },
+            "isClosed": false,
+            "location": {
+                "lat": 28.567171,
+                "lon": 77.08483
+            },
+            "surface": "Asphalt",
+            "displacedThreshold": {
+                "meter": 0.0,
+                "km": 0.0,
+                "mile": 0.0,
+                "nm": 0.0,
+                "feet": 0.0
+            },
+            "hasLighting": true
+        },
+        {
+            "name": "11",
+            "trueHdg": 103.9,
+            "length": {
+                "meter": 4378.15,
+                "km": 4.38,
+                "mile": 2.72,
+                "nm": 2.36,
+                "feet": 14364.0
+            },
+            "width": {
+                "meter": 60.05,
+                "km": 0.06,
+                "mile": 0.04,
+                "nm": 0.03,
+                "feet": 197.0
+            },
+            "isClosed": false,
+            "location": {
+                "lat": 28.54719,
+                "lon": 77.06576
+            },
+            "surface": "Asphalt",
+            "displacedThreshold": {
+                "meter": 628.0,
+                "km": 0.63,
+                "mile": 0.39,
+                "nm": 0.34,
+                "feet": 2060.37
+            },
+            "hasLighting": true
+        },
+        {
+            "name": "27",
+            "trueHdg": 271.5,
+            "length": {
+                "meter": 2827.93,
+                "km": 2.83,
+                "mile": 1.76,
+                "nm": 1.53,
+                "feet": 9278.0
+            },
+            "width": {
+                "meter": 45.11,
+                "km": 0.05,
+                "mile": 0.03,
+                "nm": 0.02,
+                "feet": 148.0
+            },
+            "isClosed": false,
+            "location": {
+                "lat": 28.569822,
+                "lon": 77.11696
+            },
+            "surface": "Asphalt",
+            "displacedThreshold": {
+                "meter": 152.0,
+                "km": 0.15,
+                "mile": 0.09,
+                "nm": 0.08,
+                "feet": 498.69
+            },
+            "hasLighting": true
+        },
+        {
+            "name": "28",
+            "trueHdg": 284.7,
+            "length": {
+                "meter": 3809.09,
+                "km": 3.81,
+                "mile": 2.37,
+                "nm": 2.06,
+                "feet": 12497.0
+            },
+            "width": {
+                "meter": 45.11,
+                "km": 0.05,
+                "mile": 0.03,
+                "nm": 0.02,
+                "feet": 148.0
+            },
+            "isClosed": false,
+            "location": {
+                "lat": 28.5585,
+                "lon": 77.12253
+            },
+            "surface": "Asphalt",
+            "displacedThreshold": {
+                "meter": 0.0,
+                "km": 0.0,
+                "mile": 0.0,
+                "nm": 0.0,
+                "feet": 0.0
+            },
+            "hasLighting": true
+        },
+        {
+            "name": "29",
+            "trueHdg": 283.9,
+            "length": {
+                "meter": 4378.15,
+                "km": 4.38,
+                "mile": 2.72,
+                "nm": 2.36,
+                "feet": 14364.0
+            },
+            "width": {
+                "meter": 60.05,
+                "km": 0.06,
+                "mile": 0.04,
+                "nm": 0.03,
+                "feet": 197.0
+            },
+            "isClosed": false,
+            "location": {
+                "lat": 28.537743,
+                "lon": 77.109215
+            },
+            "surface": "Asphalt",
+            "displacedThreshold": {
+                "meter": 1430.0,
+                "km": 1.43,
+                "mile": 0.89,
+                "nm": 0.77,
+                "feet": 4691.6
+            },
+            "hasLighting": true
+        }
+    ],
+    "currentTime": {
+        "time": {
+            "utc": "2025-12-13 11:11Z",
+            "local": "2025-12-13 16:41+05:30"
+        },
+        "timeZoneId": "Asia/Kolkata"
+    }
+}
