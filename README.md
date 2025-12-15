@@ -5,7 +5,7 @@ import requests
 url = "https://aerodatabox.p.rapidapi.com/airports/iata/DEL"
 
 headers = {
-	"x-rapidapi-key": "1a08aa05bamshfd016d2ed153ddcp1fa188jsn96526e10b88f",
+	"x-rapidapi-key": "RAPID_API_KEY",
 	"x-rapidapi-host": "aerodatabox.p.rapidapi.com"
 }
 
@@ -15,4 +15,5 @@ response = requests.get(url, headers=headers)
 if response.status_code == 200:
     print(response.json())
 else:
+
     print(f"Error: {response.status_code} - {response.text}")
